@@ -3,7 +3,7 @@ package character.value;
 public class SwapTwo {
 
 	public static void main(String[] args) {
-		int a = 3,b = 1,c = 2 ,d;
+		int a = 2,b = 1,c = 3 ,d;
 		if((a<b)&&(b>c))
 		{
 			d = b; //d= 3;

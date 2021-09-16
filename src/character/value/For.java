@@ -14,6 +14,13 @@ public class For{
 					System.out.println(i);
 				}
 			}
+			for (int i=0;i<=10;i++)
+			{
+				if(i%2 != 0)  // if condition is ture , continue statement is repeat the condition check and the condition false next line executed  
+				continue;
+				
+				System.out.println(i);
+			}
 			
 		}
 		
